@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on Website development.
 - 📫 How to reach me ... You can find me on Discord -> Juicyy#0187 :)
 - I use arch btw
-- 
