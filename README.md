@@ -1,6 +1,23 @@
-- 👋 Hi, I’m @Rhebert-Abreu
-- 👀 I’m interested in Python,HTML/CSS, Javascript and C#
-- 🌱 I’m currently learning Python/HTML and CSS
-- 💞️ I’m looking to collaborate on Website development.
-- 📫 How to reach me ... You can find me on Discord -> Juicyy#0187 :)
-- I use arch btw
+ 👋 Hi, I’m @Rhebert-Abreu
+ 
+ - 👀 I’m interested in Python, HTML/CSS, Javascript, C# and also Linux
+ - 🌱 I’m currently learning HTML and CSS | Javascript
+ - 💞️ I’m looking to collaborate on Website development.
+ - 📫 How to reach me ... You can find me on Discord -> Juicyy#0187 :)
+ - 🐧 I use Arch btw 
+
+<div align="center">
+  <a href="https://github.com/Rhebert-Abreu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rhebert-Abreu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhebert-Abreu&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+ <div style="display: inline_block"><br>
+ <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ 
+ <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
