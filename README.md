@@ -3,7 +3,6 @@
    👀 I’m interested in Python, HTML/CSS, Javascript, C# and also Linux
    🌱 I’m currently learning HTML and CSS + Javascript
    💞️ I’m looking to collaborate on Website development.
-   🐧 I use Arch btw 
 
 
 
