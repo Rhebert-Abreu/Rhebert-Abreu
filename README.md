@@ -1,11 +1,5 @@
 <h1> 👋 Hi, I’m @Rhebert-Abreu</h1>
  
-   👀 I’m interested in Python, HTML/CSS, Javascript, C# and also Linux
-   🌱 I’m currently learning HTML and CSS + Javascript
-   💞️ I’m looking to collaborate on Website development.
-
-
-
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,nodejs,visualstudio,github,vscode,atom" /><br>
     <img src="https://skillicons.dev/icons?i=git,linux,discord,twitter,wordpress,autocad,matlab,ps,pr,ai,ae,au" />
